@@ -1,0 +1,36 @@
+init.bat
+piup install
+ipconfig
+g++ version
+gdb --version
+g++ --version
+mkdir
+python --version
+win --version
+pip install oandapyv20
+pip --upgrade pip
+pip install --upgrade pip --user QUANTIUM ROCK
+pip install --upgrade pip --user "QUANTIUM ROCK"
+pip install --upgrade pip --user "x:\"
+pip install --upgrade pip
+PIP
+pip --version
+main.cpp
+g++ main.cpp
+cd.. q-rock
+vcpkg search
+cd q-rock
+gcc main.cpp
+python
+cd apps
+cd python
+cd Script
+cd Scripts
+pip
+ls
+pip install pandas
+zorro
+git -- version
+git --version
+nmap
+nmap -sS

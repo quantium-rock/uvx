@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.rmd": "markdown",
+        "zorro.h": "c",
+        "nexowfunctions.h": "c",
+        "com.h": "c",
+        "windows.h": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "xutility": "c",
+        "csvwriter.h": "c",
+        "nexow.h": "c",
+        "variables.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "python.pythonPath": "C:\\ZorroPython\\python.exe",
+    "totvsLanguageServer.welcomePage": false,
+    "git.ignoreLimitWarning": true,
+    "totvsLanguageServer.askEncodingChange": true
+}

@@ -1,0 +1,53 @@
+Test BITCOIN BTCUSD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 86 min)
+Test period         2015-01-12..2019-03-13 (25358 bars)
+Lookback period     80 bars (3 days)
+Simulation mode     Realistic (slippage 5.0 sec)
+Avg bar             4596.3 pips range
+Spread              1.0 pips (roll 0.00/0.00)
+Contracts per lot   1.0
+
+Gross win/loss      143448$ / -193362$ (-4991348p)
+Average profit      -11989$/year, -999$/month, -46.11$/day
+Max drawdown        -52980$ -106.1% (MAE -53186$ -106.6%)
+Total down time     98% (TAE 99%)
+Max down time       55 weeks from Nov 2017
+Max open margin     58951$
+Max open risk       1179$
+Trade volume        22566745$ (5420619$/year)
+Transaction costs   -72.51$ spr, 1325$ slp, 0$ rol
+Capital required    103926$
+
+Number of trades    7251 (1742/year, 34/week, 7/day)
+Percent winning     50.1%
+Max win/loss        1978$ / -1793$
+Avg trade profit    -6.88$ -688.4p (+3945.2p / -5348.9p)
+Avg trade slippage  0.18$ 18.3p (+399.5p / -365.2p)
+Avg trade bars      6 (+6 / -6)
+Max trade bars      45 (45 hours)
+Time in market      178%
+Max open trades     9
+Max loss streak     14 (uncorrelated 13)
+
+Annual return       -12%
+Profit factor       0.74 (PRR 0.72)
+Sharpe ratio        -1.24
+Kelly criterion     -13.31
+Standard Deviation  9.31%
+R2 coefficient      0.336
+Ulcer index         100.0%
+
+Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
+2015  -0   0   0   0   0  -0  -0   0  -0   0  -0   0    -0
+2016   0   0  -0   0  -0   0  -0   0   0   0   0  -0    +0
+2017   1   0  -0  -0  -0  -1  -1  -4  -0   1   2 -15   -18
+2018  -8 -12  -9   1  -2   1   3  -2  -1   1  -3  -1   -31
+2019   0   0   0                                        +1
+
+Portfolio analysis  OptF  ProF  Win/Loss   Wgt%
+
+BTCUSD              .000  0.74 3636/3615  100.0  
+BTCUSD:L            .000  0.74 1870/1724   53.2  
+BTCUSD:S            .000  0.75 1766/1891   46.8  

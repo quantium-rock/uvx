@@ -1,0 +1,2 @@
+﻿Name,Price,Spread,RollLong,RollShort,PIP,PIPCost,MarginCost,Leverage,LotAmount,Commission,Symbol,AssetStr,,
+BTCUSD,0.01,0.0001,0,0,0.000001,0.000001,0,1,1,-0.1,BTCUSD,,

@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "X:/uvx/apps/mingw/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "compilerPath": "X:/uvx/apps/mingw/bin/gcc",
+            "compilerArgs": [],
+            //"intelliSenseModeIsExplicit": true,
+            //"cStandardIsExplicit": true,
+            //"cppStandardIsExplicit": true,
+            //"compilerPathIsExplicit": true,
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "X:/uvx/apps/mingw/include/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "X:/uvx/apps/mingw/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compilerArgs": [],
+            //"intelliSenseModeIsExplicit": true,
+            //"cStandardIsExplicit": true,
+            //"cppStandardIsExplicit": true,
+            //"compilerPathIsExplicit": false,
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "X:/uvx/apps/mingw/include/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

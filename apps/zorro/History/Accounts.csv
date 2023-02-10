@@ -1,0 +1,10 @@
+Name,Broker,Account,User,Pass,Assets,CCY,Real,NFA,Plugin,Source
+Oanda_DemoDevelop_USD,Oanda,0,101-004-17169350-001,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+Oanda_Demo1_USD,Oanda,0,101-004-9922005-003,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+Oanda_Demo2_USD,Oanda,0,101-004-9922005-004,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+Oanda_Demo3_USD,Oanda,0,101-004-9922005-005,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+Oanda_Demo4_USD,Oanda,0,101-004-9922005-006,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+Oanda_Demo5_USD,Oanda,0,101-004-9922005-007,d562f64b0cb883afa815e776681f3b93-8d818e6aa5d23cda25d0b9b02aa0696b,AssetsFix,USD,0,0,Oanda.dll,
+FXCM_Demo_USD,FXCM,0,D291055091,2285,AssetsFXCM,USD,0,0,FXCM.dll,
+IB-TWS-Demo,IB,0,101,0,AssetsIB,EUR,0,14,IB.dll,
+IB-Gate,IB,0,1,0,AssetsIB,EUR,1,14,IB.dll,
